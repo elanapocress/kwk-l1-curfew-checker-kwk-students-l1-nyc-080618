@@ -5,4 +5,4 @@ def curfew_checker(x)
   puts "you are not in trouble"
   end
 end
-curfew_checker(12)
+curfew_checker(10)
